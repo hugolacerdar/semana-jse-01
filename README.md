@@ -1,5 +1,6 @@
 # Projeto base da JS Expert Week
 
+- Acesse o [repositório original](https://github.com/ErickWendel/jsexpert01-skeleton-ew) e deixe uma estrela lá
 - Acesse o [index](./public/index/index.html) para visualizar a lista de titulos
 - Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar o titulo base do projeto
 
