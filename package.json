@@ -1,0 +1,24 @@
+{
+  "name": "semana-jse-01",
+  "version": "1.0.0",
+  "description": "- Acesse o [repositório original](https://github.com/ErickWendel/jsexpert01-skeleton-ew) e deixe uma estrela lá - Acesse o [index](./public/index/index.html) para visualizar a lista de titulos - Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar o titulo base do projeto",
+  "main": "index.js",
+  "scripts": {
+    "assets": "npx http-server --cors -p 8081 assets/",
+    "dev": "npx http-server --cors -p 4200 public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugolacerdar/semana-jse-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugolacerdar/semana-jse-01/issues"
+  },
+  "homepage": "https://github.com/hugolacerdar/semana-jse-01#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
