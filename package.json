@@ -20,5 +20,8 @@
   "homepage": "https://github.com/hugolacerdar/semana-jse-01#readme",
   "devDependencies": {
     "http-server": "^0.12.3"
+  },
+  "dependencies": {
+    "serverless": "^2.35.0"
   }
 }
